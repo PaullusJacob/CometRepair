@@ -1,0 +1,23 @@
+#body {
+    border: black solid 1px;
+    border-radius: 15px;
+    position: relative;
+}
+
+li {
+    margin-left: 20%;
+    white-space: nowrap;
+}
+
+nav {
+    margin-top: -5%;
+}
+
+#navIcon {
+    margin-right: 32%;
+}
+
+#logoTop {
+    margin-bottom: 1%;
+    margin-left: 6%;
+}
